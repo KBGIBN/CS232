@@ -1,5 +1,5 @@
-# HCM-UIT - Đại học Công nghệ Thông tin Thành phố Hồ Chí Minh
-## CS232.L21.KHCL - Tính toán Đa phương tiện
+**HCM-UIT - Đại học Công nghệ Thông tin Thành phố Hồ Chí Minh
+CS232.L21.KHCL - Tính toán Đa phương tiện**
 **Giảng viên bộ môn:** _thầy_ Nguyễn Vinh Tiệp
 
 # ĐỒ ÁN CUỐI KỲ
